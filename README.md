@@ -23,7 +23,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-
+[![image](https://user-images.githubusercontent.com/12277937/65548960-8107db00-deea-11e9-9a9c-c2057e4c307c.jpg)](https://beta.vizhub.com/sophburke/b70514faa8584a4b98e965e546bc4af8)
 
 ## Open Questions
 
