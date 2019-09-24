@@ -8,9 +8,7 @@ The data I propose to visualize for my project is the [HarvardX-MITx Person-Cour
 
 I’ve created a proof of concept visualization of this data. It's a bar chart and it shows viewing by course and engagement levels
 
-
 [![image](https://user-images.githubusercontent.com/12277937/65547506-992a2b00-dee7-11e9-907b-fe51255146ff.jpg)](https://beta.vizhub.com/sophburke/1f10a1a7bdd64f98a399fc6b11a05bf9)
-
 
 ## Questions & Tasks
 
@@ -27,4 +25,4 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Open Questions
 
-(I don't know how to map the viewing data onto the location data on top of a map.)
+I don't know how to map the viewing data onto the location data on top of a map.
