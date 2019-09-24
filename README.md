@@ -9,23 +9,21 @@ The data I propose to visualize for my project is the [HarvardX-MITx Person-Cour
 I’ve created a proof of concept visualization of this data. It's a bar chart and it shows viewing by course and engagement levels
 
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/sophburke/1f10a1a7bdd64f98a399fc6b11a05bf9)
+[![image](https://user-images.githubusercontent.com/12277937/65547506-992a2b00-dee7-11e9-907b-fe51255146ff.jpg)](https://beta.vizhub.com/sophburke/1f10a1a7bdd64f98a399fc6b11a05bf9)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the viewing amounts vary according to course
+ * How do the viewing amounts vary according to course?
  * Is there any correlation between engagement levels and viewing amounts?
  * What viewing patterns do people from different countries have?
- * Is there a difference in the amount of views according to institution?
+ * Is there a relationship between the number of viewing events and discussion forum postings?
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+
 
 ## Open Questions
 
