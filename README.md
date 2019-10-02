@@ -16,10 +16,22 @@ The following tasks and questions will drive the visualization and interaction d
 
  * How do the viewing amounts vary according to course?
  * Is there any correlation between engagement levels and viewing amounts?
- * What viewing patterns do people from different countries have?
+ * Where were the viewers from for each course?
  * Is there a relationship between the number of viewing events and discussion forum postings?
 
-## Sketches
+## Schedule of Deliverables
+
+Following is a task breakdown and time-table.
+
+ * Create a world map featuring marks to indicate the presence of viewership in those countries. (Estimated delivery, October 10)
+    * Create map. (1 day) 
+    * Size marks according to the number of views in that country, position marks in center of country. (7 days)
+    * Enable interaction through a drop down menu so user can select views by class, institution, gender, year of birth and level of education. (3 days)
+* Create a bar chart with a menu to explore the categorical data such as course, gender, level of education, year of birth, institution and engagement according to their relationship to continuous attributes such as number of video plays. (Estimated delivery, October 22)
+    * Create bar chart. (3 days)
+    * Add color legend. (3 days) 
+    * Add drop down menu. (3 days)
+  
 
 [![image](https://user-images.githubusercontent.com/12277937/65548960-8107db00-deea-11e9-9a9c-c2057e4c307c.jpg)](https://beta.vizhub.com/sophburke/b70514faa8584a4b98e965e546bc4af8)
 
