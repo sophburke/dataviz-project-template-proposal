@@ -25,8 +25,10 @@ Following is a task breakdown and time-table.
 
  * Create a world map featuring marks to indicate the presence of viewership in those countries. (Estimated delivery, October 10)
     * Create map. (1 day) 
-    * Size marks according to the number of views in that country, position marks in center of country. (7 days)
-    * Enable interaction through a drop down menu so user can select views by class, institution, gender, year of birth and level of education. (3 days)
+    * Position marks according to the locations where videos were watched. (1 day) 
+    * Size marks according to the number of views in that country - using a javascript function to sum up the total number of views per       country. (7 days)
+    * Enable interaction through a drop down menu so user can select views by class and institution. (3 days)
+
 * Create a bar chart with a menu to explore the categorical data such as course, gender, level of education, year of birth, institution and engagement according to their relationship to continuous attributes such as number of video plays. (Estimated delivery, October 22)
     * Create bar chart. (3 days)
     * Add color legend. (3 days) 
